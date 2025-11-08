@@ -11,10 +11,20 @@
    `pip install -r requirements.txt`
 
 ## Project Structure
-├── .github/workflows/  
-├── notebooks/  
-├── data/  
-├── scripts/  
-├── requirements.txt  
-├── .gitignore  
-└── README.md
+├──.vscode/
+│  └── settings.json
+├──.github/
+│  └── workflows
+│  ├── unittests.yml
+├── .gitignore
+├── requirements.txt
+├── README.md
+|------ src/
+├── notebooks/
+│   ├── __init__.py
+│   └── README.md
+├── tests/
+│   ├── __init__.py
+└── scripts/
+    ├── __init__.py
+    └── README.md
