@@ -284,7 +284,8 @@ This project is part of the 10 Academy KAIM program.
 
 ## 👥 Authors
 
-- **Your Name** - [Your GitHub Profile](https://github.com/dnNatnael)
+- [Natnael Yilma](https://github.com/dnNatnael)
+- **Your Name** - [Your GitHub Profile](https://github.com/your-username)
 
 ## 🙏 Acknowledgments
 
